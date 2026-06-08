@@ -164,6 +164,7 @@ cython_debug/
 
 model_result/
 .*/
+!.vscode/
 cs336_basics/data/
 cs336_basics/model_result/
 cs336_basics/wandb/
